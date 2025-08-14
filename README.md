@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 CS student @ UTCN<br>👯 Open to collabs on coding & tech projects<br>🌱 Learning AI, web dev & algorithms<br>💬 Ask me about tech, sci-fi & fun facts<br>⚡ Fun fact: I debug faster than I sleep
+🔭 CS student @ UTCN<br>👯 Open to collabs on coding & tech projects<br>🌱 Learning AI, web dev & algorithms<br>💬 Ask me about tech, sci-fi & fun facts<br>⚡ Fun fact: I debug faster than I sleep(sometimes)
 
 
 ## 🌐 Socials:
